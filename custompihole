@@ -1,5 +1,8 @@
 #Spotify------------
 0.0.0.0 spclient.wg.spotify.com
+#reddit-----------
+0.0.0.0 alb.reddit.com
+0.0.0.0 e.reddit.com
 #
 #Werbung-----------------
 0.0.0.0 pubads.g.doubleclick.net 
